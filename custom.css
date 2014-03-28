@@ -1,0 +1,29 @@
+#main {
+    margin-top: 40px;
+}
+
+#image {height:500px;}
+
+#wheel {width:450px;}
+
+#output {
+    margin-top: 40px;
+}
+
+#signPic {
+    margin-top: 0;
+    width:120px;
+}
+
+#signPicDiv { width: 170px;}
+
+#result { margin-top: 50px;}
+
+.jumbotron {
+    color: white;
+    background: -webkit-linear-gradient(left, #FF6600, #FFB280);
+}
+
+blockquote {
+    border-color: #FF6600;
+}
